@@ -61,4 +61,4 @@ Join our growing community for updates and support:
 📧 Email: tonnyjansen0831@gmail.com
 
 📜 License
-MIT © 2025 SOLPr0digy
+MIT © 2025 solzen33
