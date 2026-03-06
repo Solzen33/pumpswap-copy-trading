@@ -55,10 +55,10 @@ Performance Dashboard <!-- Replace with actual dashboard animation -->
 📞 Support & Community
 Join our growing community for updates and support:
 
-| Telegram | [t.me/solzen33](https://t.me/solzen33) | Announcements & Support |
-| X | [x.com/solzen33](https://x.com/solzen33) | News & Updates |
+| Telegram | [t.me/solzen33](https://t.me/solzen77) | Announcements & Support |
+| X | [x.com/solzen33](https://x.com/solzen77) | News & Updates |
 
-📧 Email: tonnyjansen0831@gmail.com
+📧 Email: rushrover.dk@gmail.com
 
 📜 License
 MIT © 2025 solzen33
