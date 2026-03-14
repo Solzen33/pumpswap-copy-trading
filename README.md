@@ -58,7 +58,5 @@ Join our growing community for updates and support:
 | Telegram | [t.me/solzen33](https://t.me/solzen77) | Announcements & Support |
 | X | [x.com/solzen33](https://x.com/solzen77) | News & Updates |
 
-📧 Email: rushrover.dk@gmail.com
-
 📜 License
 MIT © 2025 solzen33
